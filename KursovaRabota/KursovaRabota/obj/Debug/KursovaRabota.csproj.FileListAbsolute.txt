@@ -1,0 +1,14 @@
+D:\Workspace\МЕИ\dotNET\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.csprojAssemblyReference.cache
+D:\Workspace\МЕИ\dotNET\KursovaRabota\KursovaRabota\obj\Debug\MainWindow.baml
+D:\Workspace\МЕИ\dotNET\KursovaRabota\KursovaRabota\obj\Debug\MainWindow.g.cs
+D:\Workspace\МЕИ\dotNET\KursovaRabota\KursovaRabota\obj\Debug\App.g.cs
+D:\Workspace\МЕИ\dotNET\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota_MarkupCompile.cache
+D:\Workspace\МЕИ\dotNET\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.g.resources
+D:\Workspace\МЕИ\dotNET\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.Properties.Resources.resources
+D:\Workspace\МЕИ\dotNET\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.csproj.GenerateResource.cache
+D:\Workspace\МЕИ\dotNET\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.csproj.CoreCompileInputs.cache
+D:\Workspace\МЕИ\dotNET\KursovaRabota\KursovaRabota\bin\Debug\KursovaRabota.exe.config
+D:\Workspace\МЕИ\dotNET\KursovaRabota\KursovaRabota\bin\Debug\KursovaRabota.exe
+D:\Workspace\МЕИ\dotNET\KursovaRabota\KursovaRabota\bin\Debug\KursovaRabota.pdb
+D:\Workspace\МЕИ\dotNET\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.exe
+D:\Workspace\МЕИ\dotNET\KursovaRabota\KursovaRabota\obj\Debug\KursovaRabota.pdb
